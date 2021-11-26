@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    きたこれ
     @foreach ($articles as $article)
         {{ $article->id }}
         {{ $article->title }}
